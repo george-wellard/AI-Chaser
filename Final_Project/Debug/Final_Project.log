@@ -1,0 +1,6 @@
+﻿  Game.cpp
+C:\Users\georg\OneDrive\Documents\Uni Projects\Final_Project\Final_Project\Final_Project\Game.cpp(81,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\georg\OneDrive\Documents\Uni Projects\Final_Project\Final_Project\Final_Project\Game.cpp(114,24): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  Final_Project.vcxproj -> C:\Users\georg\OneDrive\Documents\Uni Projects\Final_Project\Final_Project\Debug\Final_Project.exe
